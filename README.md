@@ -9,7 +9,13 @@ Students are expected to:
 Student Info
 =========================
 
+<<<<<<< HEAD
 * Student Name: Pham Huu Hoa 
 * Student ID: BI11-093
    
+=======
+* Student Name: Phạm Hữu Hoà
+* Student ID: BI11-093
+
+>>>>>>> 2c62254e193519fce3e1e9e52a5127275a4b04a3
 
